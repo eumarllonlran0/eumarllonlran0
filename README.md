@@ -2,63 +2,64 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=540&lines=Backend+Developer;JavaScript+%C2%B7+Node.js+%C2%B7+REST+APIs;Learning+by+building+real+projects" alt="Backend Developer · JavaScript · Node.js · REST APIs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=540&lines=Desenvolvedor+Backend;JavaScript+%C2%B7+Node.js+%C2%B7+APIs+REST;Aprendendo+com+projetos+reais" alt="Desenvolvedor Backend · JavaScript · Node.js · APIs REST" />
 
-Software Engineering student at **UNIPÊ** · João Pessoa, Brazil
+Estudante de Engenharia de Software no **UNIPÊ** · João Pessoa, PB
 
 <a href="https://www.linkedin.com/in/eumarllonlran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:eumarllonlran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/eumarllonlran?tab=repositories"><img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
+<a href="mailto:eumarllonlran@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<a href="https://github.com/eumarllonlran?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 </div>
 
 ---
 
-### 👨‍💻 About me
+### 👨‍💻 Sobre mim
 
-I'm a Software Engineering student building my career as a **backend developer with JavaScript**. What interests me most is what happens behind the screen: business rules, APIs, databases, authentication and deployment.
+Sou estudante de Engenharia de Software e estou construindo minha carreira como **desenvolvedor backend com JavaScript**. O que mais me interessa é o que acontece por trás da tela: regras de negócio, APIs, bancos de dados, autenticação e deploy.
 
-Before focusing on development, I studied Linux, the terminal, networking and scripting with Bash and Python. That foundation helps me understand how applications run on the server.
+Antes de focar em desenvolvimento, estudei Linux, terminal, redes e scripts com Bash e Python. Essa base me ajuda a entender como as aplicações funcionam no servidor.
 
-### 🧭 Learning path
+### 🧭 Trilha de estudos
 
-| Stage | Technologies | Status |
+| Etapa | Tecnologias | Status |
 | :-- | :-- | :-- |
-| 1. Fundamentals | JavaScript, programming logic, Git and GitHub | 🟢 In progress |
-| 2. Backend | Node.js, Express and REST APIs | 🔜 Up next |
-| 3. Databases | PostgreSQL, SQL and Prisma | 🔜 Up next |
-| 4. Code quality | TypeScript, automated testing and Docker | 🔜 Up next |
+| 1. Fundamentos | JavaScript, lógica de programação, Git e GitHub | 🟢 Em andamento |
+| 2. Backend | Node.js, Express e APIs REST | 🔜 Próxima etapa |
+| 3. Bancos de dados | PostgreSQL, SQL e Prisma | 🔜 Próxima etapa |
+| 4. Qualidade de código | TypeScript, testes automatizados e Docker | 🔜 Próxima etapa |
 
-HTML and CSS come in as a complement, so I can understand applications end to end.
+HTML e CSS entram como complemento, para eu entender as aplicações de ponta a ponta.
 
-📚 Follow my progress in the **[javascript-studies](https://github.com/eumarllonlran/javascript-studies)** repository, where I log every topic I study, along with notes and exercises.
+📚 Acompanhe minha evolução no repositório **[estudos-javascript](https://github.com/eumarllonlran/estudos-javascript)**, onde registro cada assunto que estudo, com anotações e exercícios.
 
-### 🛠️ Tech stack
+### 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux&theme=dark" alt="Backend focus: JavaScript, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,postgres,prisma,git,github,linux&theme=dark" alt="Foco em backend: JavaScript, Node.js, Express, PostgreSQL, Prisma, Git, GitHub, Linux" />
   <br>
-  <img src="https://skillicons.dev/icons?i=ts,docker,vitest,bash,python,html,css,vscode&theme=dark" alt="Next steps and complementary tools: TypeScript, Docker, Vitest, Bash, Python, HTML, CSS, VS Code" />
+  <img src="https://skillicons.dev/icons?i=ts,docker,vitest,bash,python,html,css,vscode&theme=dark" alt="Próximos passos e ferramentas complementares: TypeScript, Docker, Vitest, Bash, Python, HTML, CSS, VS Code" />
   <br>
-  <sub>Top: backend focus · Bottom: next steps and complementary tools</sub>
+  <sub>Em cima: foco em backend · Embaixo: próximos passos e ferramentas complementares</sub>
 </p>
 
-### 📂 Projects
+### 📂 Projetos
 
-| Project | Description | Tech |
+| Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
-| [JavaScript Studies](https://github.com/eumarllonlran/javascript-studies) | My learning path organized by technology, with notes, exercises and a study log | HTML · CSS · JavaScript · Git · Node.js · SQL |
-| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Quote-request website for electricians, with a multi-step form and WhatsApp delivery (team project) | HTML · CSS · JavaScript · Bootstrap |
-| [Contact Form](https://github.com/eumarllonlran/college-contact-form) | Contact page with accessible validation, phone input masking and dark mode · [live demo](https://eumarllonlran.github.io/college-contact-form/) | HTML · CSS · JavaScript |
+| [Estudos JavaScript](https://github.com/eumarllonlran/estudos-javascript) | Minha trilha de estudos organizada por tecnologia, com anotações, exercícios e diário de estudos | HTML · CSS · JavaScript · Git · Node.js · SQL |
+| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Site de orçamentos para eletricistas, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
+| [Maré Limpa](https://github.com/eumarllonlran/mare-limpa) | Protótipo acadêmico para registrar resíduos nas praias de João Pessoa, ligado à meta 14.1 do ODS 14 · [ver online](https://eumarllonlran.github.io/mare-limpa/) | HTML · CSS · JavaScript |
+| [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro · [ver online](https://eumarllonlran.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
 
-🚧 **Coming next:** a to-do REST API with Node.js and Express, an API with PostgreSQL and Prisma, JWT authentication, and a full application with deployment.
+🚧 **Próximos projetos:** uma API REST de tarefas com Node.js e Express, uma API com PostgreSQL e Prisma, autenticação com JWT e uma aplicação completa com deploy.
 
-### 📌 Right now
+### 📌 No momento
 
-- 📚 Studying JavaScript fundamentals and getting ready for Node.js
-- 🛠️ Building projects to practice logic and clean code
-- 🤝 Open to backend development internship opportunities
+- 📚 Estudando os fundamentos de JavaScript e me preparando para o Node.js
+- 🛠️ Criando projetos para praticar lógica e código limpo
+- 🤝 Aberto a oportunidades de estágio em desenvolvimento backend
 
 ---
 
-<div align="center"><sub>JavaScript on the backend · Building real projects · Always learning</sub></div>
+<div align="center"><sub>JavaScript no backend · Construindo projetos reais · Sempre aprendendo</sub></div>
