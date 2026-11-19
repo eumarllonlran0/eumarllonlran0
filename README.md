@@ -8,7 +8,7 @@ Estudante de Engenharia de Software no **UNIPÊ** · João Pessoa, PB
 
 <a href="https://www.linkedin.com/in/eumarllonlran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:eumarllonlran@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<a href="https://github.com/eumarllonlran?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
+<a href="https://github.com/eumarllonlran0?tab=repositories"><img src="https://img.shields.io/badge/Reposit%C3%B3rios-181717?style=flat-square&logo=github&logoColor=white" alt="Repositórios" /></a>
 
 </div>
 
@@ -31,7 +31,7 @@ Antes de focar em desenvolvimento, estudei Linux, terminal, redes e scripts com 
 
 HTML e CSS entram como complemento, para eu entender as aplicações de ponta a ponta.
 
-📚 Acompanhe minha evolução no repositório **[estudos-javascript](https://github.com/eumarllonlran/estudos-javascript)**, onde registro cada assunto que estudo, com anotações e exercícios.
+📚 Acompanhe minha evolução no repositório **[estudos-javascript](https://github.com/eumarllonlran0/estudos-javascript)**, onde registro cada assunto que estudo, com anotações e exercícios.
 
 ### 🛠️ Tecnologias
 
@@ -47,10 +47,10 @@ HTML e CSS entram como complemento, para eu entender as aplicações de ponta a 
 
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
-| [Estudos JavaScript](https://github.com/eumarllonlran/estudos-javascript) | Minha trilha de estudos organizada por tecnologia, com anotações, exercícios e diário de estudos | HTML · CSS · JavaScript · Git · Node.js · SQL |
-| [Faísca Orçamentos](https://github.com/eumarllonlran/faisca-orcamentos) | Site de orçamentos para eletricistas, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
-| [Maré Limpa](https://github.com/eumarllonlran/mare-limpa) | Protótipo acadêmico para registrar resíduos nas praias de João Pessoa, ligado à meta 14.1 do ODS 14 · [ver online](https://eumarllonlran.github.io/mare-limpa/) | HTML · CSS · JavaScript |
-| [Formulário de Contato](https://github.com/eumarllonlran/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro · [ver online](https://eumarllonlran.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
+| [Estudos JavaScript](https://github.com/eumarllonlran0/estudos-javascript) | Minha trilha de estudos organizada por tecnologia, com anotações, exercícios e diário de estudos | HTML · CSS · JavaScript · Git · Node.js · SQL |
+| [Faísca Orçamentos](https://github.com/eumarllonlran0/faisca-orcamentos) | Site de orçamentos para eletricistas, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
+| [Maré Limpa](https://github.com/eumarllonlran0/mare-limpa) | Protótipo acadêmico para registrar resíduos nas praias de João Pessoa, ligado à meta 14.1 do ODS 14 · [ver online](https://eumarllonlran0.github.io/mare-limpa/) | HTML · CSS · JavaScript |
+| [Formulário de Contato](https://github.com/eumarllonlran0/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro · [ver online](https://eumarllonlran0.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
 
 🚧 **Próximos projetos:** uma API REST de tarefas com Node.js e Express, uma API com PostgreSQL e Prisma, autenticação com JWT e uma aplicação completa com deploy.
 
