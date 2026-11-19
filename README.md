@@ -2,7 +2,7 @@
 
 # Marllon Lorran
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=540&lines=Desenvolvedor+Backend;JavaScript+%C2%B7+Node.js+%C2%B7+APIs+REST;Aprendendo+com+projetos+reais" alt="Desenvolvedor Backend · JavaScript · Node.js · APIs REST" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8CC84B&center=true&vCenter=true&width=540&lines=Desenvolvedor+Backend+em+Progresso;JavaScript+%C2%B7+Node.js+%C2%B7+APIs+REST;Aprendendo+com+projetos+reais" alt="Desenvolvedor Backend em Progresso · JavaScript · Node.js · APIs REST" />
 
 Estudante de Engenharia de Software no **UNIPÊ** · João Pessoa, PB
 
