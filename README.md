@@ -46,7 +46,6 @@ HTML e CSS entram como complemento, para que eu entenda as aplicações de ponta
 | Projeto | Descrição | Tecnologias |
 | :-- | :-- | :-- |
 | [Faísca Orçamentos](https://github.com/eumarllonlran0/faisca-orcamentos) | Site de solicitação de orçamentos para eletricistas, com formulário em etapas e envio pelo WhatsApp (projeto em equipe) | HTML · CSS · JavaScript · Bootstrap |
-| [Maré Limpa](https://github.com/eumarllonlran0/mare-limpa) | Protótipo acadêmico para registro de resíduos nas praias de João Pessoa, alinhado à meta 14.1 dos ODS da ONU (projeto em equipe) · [demonstração](https://eumarllonlran0.github.io/mare-limpa/) | HTML · CSS · JavaScript |
 | [Formulário de Contato](https://github.com/eumarllonlran0/formulario-contato-faculdade) | Página de contato com validação acessível, máscara de telefone e modo escuro · [demonstração](https://eumarllonlran0.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
 
 🚧 **Em breve:** uma API REST de gerenciamento de tarefas com Node.js e Express, uma API com PostgreSQL usando o Prisma ORM, autenticação com JWT e uma aplicação full-stack com deploy via CI/CD.
