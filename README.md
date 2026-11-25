@@ -46,7 +46,7 @@ HTML and CSS round out my skill set so I can understand applications end to end.
 | Project | Description | Technologies |
 | :-- | :-- | :-- |
 | [Faísca Orçamentos](https://github.com/eumarllonlran0/faisca-orcamentos) | Quote request website for electricians, with a multi-step form and WhatsApp submission (team project) | HTML · CSS · JavaScript · Bootstrap |
-| [Contact Form](https://github.com/eumarllonlran0/formulario-contato-faculdade) | Contact page with accessible validation, phone mask, and dark mode · [live demo](https://eumarllonlran0.github.io/formulario-contato-faculdade/) | HTML · CSS · JavaScript |
+| [Contact Form](https://github.com/eumarllonlran0/college-contact-form) | Contact page with accessible validation, phone mask, and dark mode · [live demo](https://eumarllonlran0.github.io/college-contact-form/) | HTML · CSS · JavaScript |
 
 🚧 **Coming soon:** a task management REST API with Node.js and Express, an API backed by PostgreSQL using Prisma ORM, JWT authentication, and a full-stack application deployed via CI/CD.
 
